@@ -5,7 +5,7 @@ import Container from './Container'
 import Home from './Home/Home'
 import Login from './Login/Login'
 
-const auth = new AuthService('MHH3fSEzoDo3yDQpr1HfgaIjALMuuxX9', 'unicoder.auth0.com');
+const auth = new AuthService('qcMqelHMrze9Nda3DlkPyXGOl6kWCMGx', 'jhnmeelr.eu.auth0.com');
 
 // onEnter callback to validate authentication in private routes
 const requireAuth = (nextState, replace) => {
